@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aris</string>
+    <string name="destination">Destination</string>
+    <string name="source">Source</string>
+    <string name="material">Material</string>
+    <string name="submit">Submit</string>
+</resources>

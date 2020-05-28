@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "888101216922",
+    "firebase_url": "https://arisproject-89cf8.firebaseio.com",
+    "project_id": "arisproject-89cf8",
+    "storage_bucket": "arisproject-89cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888101216922:android:ae5fff20810b0ac8",
+        "android_client_info": {
+          "package_name": "h.eit.dr.android.aris_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888101216922-j7ko3nr8ulsanm0qv3c9n9p8b9kq7oji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h.eit.dr.android.aris_project",
+            "certificate_hash": "6d061087e28c235fbc0c69a686d59c2b79e06c27"
+          }
+        },
+        {
+          "client_id": "888101216922-dnpfengf37pdt0663f5pgooqo1r17gt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "h.eit.dr.android.aris_project",
+            "certificate_hash": "22c880628e7ca23b4af7e0f67d155a15bab1eaf7"
+          }
+        },
+        {
+          "client_id": "888101216922-gpcaft3hand4oho6phu0mu0tpfdejnrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2izROWNmqN3Fn_fdx8xIm9Lq6442fAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888101216922-gpcaft3hand4oho6phu0mu0tpfdejnrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
